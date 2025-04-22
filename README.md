@@ -1,0 +1,6 @@
+- 👋 Hi, I’m joey Rovers
+- 👀 I’m interested in c# development
+- 🌱 I’m currently learning c#, php and python!
+- 📫 You can easily reach me through my email: joeyroversje@gmail.com
+- 🤣 Why did the dotnet developer need glasses? because he couldn't c#!
+- ⚡ Fun fact: I'm a huge uptempo fan! 
