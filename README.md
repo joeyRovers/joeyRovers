@@ -102,7 +102,7 @@ Outside of code, you’ll probably find me listening to **uptempo** while tinker
 - [x] **Testing**: contract tests, snapshots, and approval tests
 - [x] **CI/CD**: multi-stage Docker builds, GitHub Environments
 - [ ] **Security**: JWT/OAuth basics, validating inputs, rate limits
-- [ ] **Databases**: migrations discipline, DB versioning, seed strategies
+- [x] **Databases**: migrations discipline, DB versioning, seed strategies
 - [ ] **Observability**: structured logging, traces, and dashboards
 
 ---
